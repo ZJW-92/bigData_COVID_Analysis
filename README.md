@@ -9,7 +9,7 @@ All the data is from Johns Hopkins Universitys github repository [COVID-19](http
 
 ## Visulization
 
-![screenshot1]()
+![gif1](gif/gif1.gif)
 
-![screenshot2]()
+![gif2](gif/gif2/gif)
 
