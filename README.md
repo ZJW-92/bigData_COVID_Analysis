@@ -11,5 +11,7 @@ All the data is from Johns Hopkins Universitys github repository [COVID-19](http
 
 ![gif1](gif/gif1.gif)
 
-![gif2](gif/gif2/gif)
+![gif2](gif/gif2.gif)
+
+![gif3](gif/gif3.gif)
 
