@@ -1,14 +1,14 @@
-# Big Data COVID-19 Analysis
+# ***Big Data COVID-19 Analysis***
 
-## Data source 
+## ***Data source***
 
-All the data is from Johns Hopkins Universitys github repository [COVID-19](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) 
+_All the data is from Johns Hopkins Universitys github repository [COVID-19](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)_
 
-## Technologies used 
-- pandas: cleaning, analysing 
-- pyecharts
+## ***Technologies***
+- _pandas_: cleaning, analysing 
+- _pyecharts_
 
-## Visulization
+## ***Visulizatio***
 
 ![gif1](gif/gif1.gif)
 
