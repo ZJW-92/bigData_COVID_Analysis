@@ -8,7 +8,7 @@ _All the data is from Johns Hopkins Universitys github repository [COVID-19](htt
 - _pandas_: cleaning, analysing 
 - _pyecharts_
 
-## ***Visulizatio***
+## ***Visulization***
 
 <img src="gif/gif1.gif" width="70%">
 <img src="gif/gif2.gif" width="70%">
