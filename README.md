@@ -10,8 +10,8 @@ _All the data is from Johns Hopkins Universitys github repository [COVID-19](htt
 
 ## ***Visulization***
 
-<img src="gif/gif1.gif" width="70%">
-<img src="gif/gif2.gif" width="70%">
-<img src="gif/gif3.gif" width="70%">
+<img src="gif/gif1.gif" width="90%">
+<img src="gif/gif2.gif" width="90%">
+<img src="gif/gif3.gif" width="90%">
 
 
