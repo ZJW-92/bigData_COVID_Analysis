@@ -1,4 +1,4 @@
-# ***Big Data COVID-19 Analysis***
+# ***[Big Data COVID-19 Analysis](#visualization)***
 
 ## ***Data source***
 
@@ -8,7 +8,7 @@ _All the data is from Johns Hopkins Universitys github repository [COVID-19](htt
 - _pandas_: cleaning, analysing 
 - _pyecharts_
 
-## ***Visulization***
+## ***Visualization***
 
 <img src="gif/gif1.gif" width="90%">
 <img src="gif/gif2.gif" width="90%">
